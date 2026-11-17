@@ -102,6 +102,7 @@ export const PROJECTS = [
 ];
 
 export const SOCIALS = [
+  { name: "LinkedIn", url: "https://www.linkedin.com/in/christiansidebang/" },
   { name: "Github", url: "https://github.com/csidebang02" },
   { name: "Twitter", url: "https://twitter.com/christiansideb1" },
   { name: "Instagram", url: "https://instagram.com/christiansidebang" }
@@ -114,6 +115,12 @@ export const PAGES = [
   { id: "projects", path: "/projects", label: "Projects" },
   { id: "contact", path: "/contact", label: "Contact" }
 ];
+
+export const CONTACT = {
+  email: "csidebang02@gmail.com",
+  whatsapp: "6281358153351", // format internasional, tanpa 0 di depan dan tanpa +
+  linkedin: "https://www.linkedin.com/in/christiansidebang/"
+};
 
 export const EXPERIENCES = [
   {
@@ -132,6 +139,20 @@ export const EXPERIENCES = [
   },
   {
     company: "PT. ANDAL SOFTWARE",
+    role: "System Consultant",
+    period: "Mar 2026 - Des 2026",
+    project: "Internal Request Marketing Tools Event",
+    facts: "4 modules · 2 weeks · team of 1",
+    points: [
+      "Analyzed project needs together with users and wrote the user requirements",
+      "Developed the Android app with Flutter and Dart in Android Studio",
+      "Ran testing and bug reporting using Google Sheets",
+      "Managed project progress with Jira and Google Sheets"
+    ],
+    tools: ["Flutter", "Dart", "Android Studio", "Jira", "Google Sheets"]
+  },
+  {
+    company: "PT. Accelist Lentera Indonesia",
     role: "System Consultant",
     period: "Mar 2026 - Des 2026",
     project: "Internal Request Marketing Tools Event",
