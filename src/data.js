@@ -119,7 +119,9 @@ export const PAGES = [
 export const CONTACT = {
   email: "csidebang02@gmail.com",
   whatsapp: "6281358153351", // format internasional, tanpa 0 di depan dan tanpa +
-  linkedin: "https://www.linkedin.com/in/christiansidebang/"
+  linkedin: "https://www.linkedin.com/in/christiansidebang/",
+  formKey: "31186734-fe03-45c4-b09d-e9539c84ba71",
+  scriptUrl: "https://script.google.com/macros/s/AKfycbwHnAaExK0w5eLqJJPBVXKlIWTM2EqQuuPG6NRBcmR2bEiYdQawKHkenVYeZlA57aYJEA/exec"
 };
 
 export const EXPERIENCES = [
