@@ -106,7 +106,7 @@ export const PAGES = [
 
 export const CONTACT = {
   email: "csidebang02@gmail.com",
-  whatsapp: "6281358153351", // format internasional, tanpa 0 di depan dan tanpa +
+  whatsapp: "6285803626746", // format internasional, tanpa 0 di depan dan tanpa +
   linkedin: "https://www.linkedin.com/in/christiansidebang/",
   formKey: "31186734-fe03-45c4-b09d-e9539c84ba71",
   scriptUrl: "https://script.google.com/macros/s/AKfycbwHnAaExK0w5eLqJJPBVXKlIWTM2EqQuuPG6NRBcmR2bEiYdQawKHkenVYeZlA57aYJEA/exec"
@@ -128,7 +128,7 @@ export const EXPERIENCES = [
   { // UBAH: seluruh entri
     company: "PT. Andal Software Sejahtera",
     role: "System Consultant",
-    period: "Mar 2025 - Dec 2026",
+    period: "Mar 2025 - Dec 2025",
     project: "Andal Kharisma HRIS & Payroll",
     points: [
       "End-to-end implementation of the Andal Kharisma HRIS & Payroll system",
