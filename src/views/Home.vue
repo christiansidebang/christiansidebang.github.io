@@ -1,6 +1,6 @@
 <script setup>
 import { ref, onMounted, onUnmounted } from 'vue'
-const cv = 'assets/img/cv/CV-CHRISTIAN SIDEBANG.pdf'
+const cv = 'assets/img/cv/Resume - Christian Sidebang.pdf'
 const foto = 'assets/img/profile/ProfilNew.jpg'
 const text = ref('')
 const words = ['.Net Developer', 'Full Stack Developer', 'Data Analyst']
